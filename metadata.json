@@ -1,0 +1,6 @@
+{
+  "name": "AuraDental - Modern Dental & Implant Clinic",
+  "description": "Experience gentle, state-of-the-art dental care with interactive 3D consultations, premium cosmetic dentistry, dental implants, braces, and routine wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
